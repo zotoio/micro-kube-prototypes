@@ -1,6 +1,7 @@
 ---
 # Declare variables to be passed into your templates.
 replicaCount: 1
+nameOverride: service
 image:
   repository: zotoio/micro-one
   tag: latest

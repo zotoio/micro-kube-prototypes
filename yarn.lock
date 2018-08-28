@@ -2645,9 +2645,9 @@ gauge@~2.7.3:
     strip-ansi "^3.0.1"
     wide-align "^1.1.0"
 
-generator-micro-kube@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/generator-micro-kube/-/generator-micro-kube-1.0.2.tgz#307320dc2d373c2e0161d87a0843a0f6513d1905"
+generator-micro-kube@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/generator-micro-kube/-/generator-micro-kube-1.0.5.tgz#e0a65c2fc7ae62fee3b17e912d7a4cde647c544d"
   dependencies:
     chalk "^2.1.0"
     yeoman-generator "^2.0.1"
